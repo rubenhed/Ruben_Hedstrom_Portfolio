@@ -5,3 +5,6 @@ Portfolio
 * notes1
 * notes2
 * notes3...
+
+![](https://github.com/rubenhed/Python/blob/main/Snake_RL/images/game.png)
+![](https://github.com/rubenhed/Python/blob/main/Snake_RL/images/stats.png)

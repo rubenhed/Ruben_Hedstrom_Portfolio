@@ -6,5 +6,5 @@ Portfolio
 * notes2
 * notes3...
 
-![](https://github.com/rubenhed/Python/blob/main/Snake_RL/images/game.png | width=100)
-![](https://github.com/rubenhed/Python/blob/main/Snake_RL/images/stats.png)
+<img src="https://github.com/rubenhed/Python/blob/main/Snake_RL/images/game.png" height="300"> <img src="https://github.com/rubenhed/Python/blob/main/Snake_RL/images/stats.png" height="300">
+

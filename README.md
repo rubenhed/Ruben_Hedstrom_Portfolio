@@ -6,5 +6,5 @@ Portfolio
 * notes2
 * notes3...
 
-<img src="https://github.com/rubenhed/Python/Snake_RL/images/game.png" height="300"> <img src="https://github.com/rubenhed/Python/Snake_RL/images/stats.png" height="300">
+<img src="images/game.png" height="300"> <img src="images/stats.png" height="300">
 

@@ -13,7 +13,7 @@ Portfolio
 * notes2
 * notes3...
 
-<img src="images/disp_img.png" height="300">
+<img src="images/disp_img.png" height="300"> <img src="images/disp_img_stats.png" height="300">
 
 # [Computerized Tomography learning game](https://github.com/rubenhed/Python/tree/main/CT_image_learning_game)
 * notes1

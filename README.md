@@ -1,10 +1,9 @@
 # Ruben_Hedstrom_Portfolio
-Portfolio
+Projects done in Python, C and Java.
 
 # [Snake game using Reinforcement learning](https://github.com/rubenhed/Python/tree/main/Snake_RL)
 * Hobby project built in Python.
 * Main libraries used: Pygame, PyTorch, NumPy.
-* 
 
 <img src="images/game.png" height="300"> <img src="images/stats.png" height="300">
 
@@ -17,7 +16,8 @@ Portfolio
 
 # [Computerized Tomography learning game](https://github.com/rubenhed/Python/tree/main/CT_image_learning_game)
 * Learning game aimed for medicine students to learn to identify anomalies in CT-images. 
-* In progress, to do: user-friendly interface and more functions(full screen mode, game modes, etc.)
+* In progress.
+* Todo: user-friendly interface and more functions(full screen mode, different game modes, etc.)
 * University project built in Python
 * Main libraries used: Tkinter, PIL, threading, NumPy.
 

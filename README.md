@@ -2,6 +2,7 @@
 Below are projects done in Python, C and Java. [Here](Courses.pdf) are courses taken in University.
 
 # [Snake game using Reinforcement learning](https://github.com/rubenhed/Python/tree/main/Snake_RL)
+* Reinforcement learning algorithm that learns to play the game snake from zero.
 * Hobby project built in Python.
 * Main libraries used: Pygame, PyTorch, NumPy.
 

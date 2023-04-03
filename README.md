@@ -1,5 +1,5 @@
 # Ruben_Hedstrom_Portfolio
-Below is projects done in Python, C and Java. [Here](Courses.pdf) is courses taken in University.
+Below are projects done in Python, C and Java. [Here](Courses.pdf) are courses taken in University.
 
 # [Snake game using Reinforcement learning](https://github.com/rubenhed/Python/tree/main/Snake_RL)
 * Hobby project built in Python.
